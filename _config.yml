@@ -15,12 +15,12 @@ url: http://belak1.github.io/
 baseurl:
 title: Brian Belak
 author: Brian Belak
-description: Personal blog and resume
-avatar: profile.png
+description: Personal website and resume
+avatar: BrianBelak.jpg
 email: brianbelak@gmail.com
 github: belak1
 twitter: brianjbelak
-linkedin: username
+linkedin: brianbelak
 # stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
 # disqus: username
